@@ -51,6 +51,6 @@ console.log(library[2].readingStatus);
  Bill Gates 
  Steve Jobs 
  Suzanne Collins 
- Bill Gates 
- Steve Jobs 
- Suzanne Collins*/
+ true 
+ true 
+ false*/
