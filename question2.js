@@ -33,9 +33,9 @@ console.log(library[1].author);
 console.log(library[2].author);
 
 //displaying the reading status
-console.log(library[0].author);
-console.log(library[1].author);
-console.log(library[2].author);
+console.log(library[0].readingStatus);
+console.log(library[1].readingStatus);
+console.log(library[2].readingStatus);
 
 //out put frpm method 1 :
 // 0: Object { author: "Bill Gates", title: "The Road Ahead", readingStatus: true }
